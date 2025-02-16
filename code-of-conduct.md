@@ -1,0 +1,1 @@
+When having discussions about this module in issues or pull request please adhere to the [Silverstripe CMS community code of conduct](https://docs.silverstripe.org/en/project_governance/code_of_conduct).

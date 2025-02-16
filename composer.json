@@ -1,0 +1,32 @@
+{
+    "name": "tjbw/silvershop-bootstrap-theme",
+    "description": "The SilverStripe SilverShop Bootstrap theme",
+    "type": "silverstripe-theme",
+    "keywords": [
+        "silverstripe",
+        "theme",
+        "silvershop",
+        "Bootstrap"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rastislav Brandobur",
+            "email": "brandobur@tjbw.sk",
+            "homepage": "https://www.tjbw.sk"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silvershop/core": "^3.1"
+    },
+    "extra": {
+        "installer-name": "silvershop-bootstrap",
+        "expose": [
+            "css",
+            "javascript",
+            "images",
+            "fonts"
+        ]
+    }
+}
